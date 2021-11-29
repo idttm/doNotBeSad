@@ -1,2 +1,2 @@
 # AR Library
-Do not be sad please [here](boSad.html)!
+Do not be sad please [please](boSad.html)!
